@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "607507535352",
+    "project_id": "doctorapp-d61a7",
+    "storage_bucket": "doctorapp-d61a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607507535352:android:8cefc097883e00aa28320d",
+        "android_client_info": {
+          "package_name": "com.treatment.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607507535352-43e2gqt07cl6at52e153hcqemdtdkhua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.treatment.app",
+            "certificate_hash": "e741c2dc6c8a00ef97bd8174a3ca787b0c42c1f1"
+          }
+        },
+        {
+          "client_id": "607507535352-dfhr5c5ngkd7goi3o8ofg7uf3ceib60s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.treatment.app",
+            "certificate_hash": "ffdc9d4d5a8430b99f14f8057d1d756ed40cf2a2"
+          }
+        },
+        {
+          "client_id": "607507535352-sq1idmtcm3794ift06rcd4o85h2a8pkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.treatment.app",
+            "certificate_hash": "754cb2b495df0f7aafb7f7431f91eb8c02080473"
+          }
+        },
+        {
+          "client_id": "607507535352-a50kebgcm0iikpjnqg3uf7f6n9qkbonc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWqrsONk3eHqDC79m3TRrCB9YOgFh2F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607507535352-a50kebgcm0iikpjnqg3uf7f6n9qkbonc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
